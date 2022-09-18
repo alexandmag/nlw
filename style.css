@@ -110,23 +110,19 @@ header div {
     animation: fromTop .7s .1s backwards;
 }
 
-/*main section {
-    
-}*/
-
 main section:nth-child(1) {
-    animation-delay: 0;
     animation: fromBottom .7s backwards;
+    animation-delay: .1s;
 }
 
 main section:nth-child(2) {
-    animation-delay: .3s;
     animation: fromBottom .7s backwards;
+    animation-delay: .3s;
 }
 
-main section:nth-child(3) {
-    animation-delay: .6s;
+main section:nth-child(3) {  
     animation: fromBottom .7s backwards;
+    animation-delay: .5s;
 }
 
 @keyframes fromTop {
