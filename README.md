@@ -16,4 +16,4 @@ Projeto construído no evento Next Leve Week da Rockseat.
 
 ## ✉️ Contato
 
-alexandmagara@gmail.com
+alexandmagarapro@gmail.com
